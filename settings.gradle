@@ -1,0 +1,2 @@
+rootProject.name = "Masala Chai Media"
+include ':app'
